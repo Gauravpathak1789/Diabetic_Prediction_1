@@ -1,5 +1,5 @@
-Flask
-numpy 
 pandas
+numpy
 scikit-learn
-
+seaborn
+Flask
